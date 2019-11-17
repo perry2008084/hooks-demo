@@ -20,3 +20,20 @@
 .App-link {
   color: #09d3ac;
 }
+
+.card {
+  width: 200px;
+  height: 200px;
+  margin: 20px auto 0;
+  padding: 10px;
+  border: 1px solid #666;
+  border-radius: 10px;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
